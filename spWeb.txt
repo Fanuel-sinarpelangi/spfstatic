@@ -1,6 +1,9 @@
 my web workflow:
+Garis besar project
 
-home - public home page
+USER UMUM
+1. Company profile
+  home - public home page
   home nav
   - home 
   - login and register
