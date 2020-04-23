@@ -1,0 +1,26 @@
+my web workflow:
+
+home - public home page
+  home nav
+  - home 
+  - login and register
+  - about
+  content
+  - presentation
+  - social interaction / message / comment
+  home footer
+  - address
+  - main product link
+  
+main menu
+  main nav
+  - back to home
+  - Contact
+  - Inventory
+  - Transaction
+  
+contact
+inventory
+transaction
+
+template
