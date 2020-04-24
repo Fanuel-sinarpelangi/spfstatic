@@ -1,29 +1,26 @@
 my web workflow:
 Garis besar project
 
-USER UMUM
-1. Company profile
-  home - public home page
-  home nav
-  - home 
-  - login and register
-  - about
-  content
-  - presentation
-  - social interaction / message / comment
-  home footer
-  - address
-  - main product link
+HALAMAN UMUM dan LOGIN
+  Company profile
+  Home - public home page
+  Login and register
+  about
   
-main menu
-  main nav
-  - back to home
-  - Contact
-  - Inventory
-  - Transaction
-  
-contact
-inventory
-transaction
+HALAMAN ADMIN
+ 1. Halaman Marketing
+    * Main menu
+    * contact
+      - hanya langanan
+    * inventory
+      - hanya daftar, tanpa harga pokok
+    * transaction
+      - penjualan
+      - penerimaan barang
+      
+ 2. Halaman manager
+    * Main menu
+    * contact - lengkap
+    * inventory - lengkap
+    * transaction - lengkap
 
-template
